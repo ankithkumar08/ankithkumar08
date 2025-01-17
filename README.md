@@ -1,4 +1,6 @@
-<img align="center" src="https://github.com/ankithkumar08/Images/blob/main/what-is-data-analyst.jpg" width="250" height="200" alt="Data Analytics Background" />
+<div align="center">
+  <img src="https://github.com/ankithkumar08/Images/blob/main/what-is-data-analyst.jpg" alt="Data Analytics Background" style="width:100%; max-width:700px; height:auto;" />
+</div>
 
 <h1 align="center">Hi 👋, I'm ANKITHKUMAR</h1>
 <h3 align="center">A passionate data engineer</h3>
