@@ -80,7 +80,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankithkumar08&show_icons=true&locale=en&layout=compact" alt="ankithkumar08" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankithkumar08&show_icons=true&locale=en" alt="ankithkumar08" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankithkumar08&" alt="ankithkumar08" /></p>
 
 
 
