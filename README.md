@@ -6,7 +6,7 @@
 <h3 align="center">A passionate data engineer</h3>
 
 - 🔭 I’m currently working on the project of 
-**Ai – driven gadget addiction predictor**
+**Hospital_management_system**
 **sql**
 
 - 🌱 I’m currently learning **Data Analytics**
