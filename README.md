@@ -6,7 +6,7 @@
 <h3 align="center">A passionate data Analyst</h3>
 
 - 🔭 I’m currently working on the project of 
-**Hospital_management_system**
+**fertilizer_application**
 **sql**
 
 - 🌱 I’m currently learning **Data Analytics**
