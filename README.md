@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on the project of 
 **fertilizer_application**
-**sql**
+**python | sql | power BI**
 
 - 🌱 I’m currently learning **Data Analytics**
   <img align="right" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" alt="person typing" width="250" height="200"/>
