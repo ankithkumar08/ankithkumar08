@@ -10,7 +10,7 @@
 **python | sql | power BI**
 
 - 🌱 I’m currently learning **Data Analytics**
-  <img align="right" src="" alt="person typing" width="250" height="200"/>
+  <img align="right" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" alt="person typing" width="250" height="200"/>
 
 - 💬 Ask me about **SQL query**
 
